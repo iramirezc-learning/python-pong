@@ -11,8 +11,3 @@ Instructions:
    * Moves with keys: W, S.
 3. Player 2:
    * Moves with arrow keys: Up, Down.
-
-
-## Screenshot
-
-![pong](https://dl.dropboxusercontent.com/u/78338927/Screenshots/Pong.PNG)
